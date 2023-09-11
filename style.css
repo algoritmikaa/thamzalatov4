@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+
+}
+
+header{
+    background-color: rgba(26, 26,252, 0.938);
+    padding: 12px;
+}
+
+h2{
+    color: red;
+}
+
+
+
+.algo {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding: 15px;
+}
+
+footer {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+}
+
+header a {
+    text-decoration:none;
+    background-color: orange;
+    color: black;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+h1 img {
+    margin: 15px;
+}
